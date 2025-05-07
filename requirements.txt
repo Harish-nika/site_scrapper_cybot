@@ -1,0 +1,3 @@
+nodejs npm 
+xvfb
+#install puppeteer or Chromium on linux
